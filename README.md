@@ -1,6 +1,13 @@
 # Tifinagh / Kabyle Virtual Keyboard
 
 A lightweight, mobile-friendly JavaScript virtual keyboard supporting **Tifinagh** and **Kabyle Latin-based scripts**, with Caps Lock, delete, layout switch, and responsive design.
+## Demo
+
+![Virtual Tifinagh Keyboard](docs/tif-kab-keyboard.png)
+
+Try typing in Tifinagh or Kabyle using our virtual keyboard!
+
+https://kmerakeb.github.io/Virtual-Tif-Kab_Keyboard/
 
 ## ✨ Features
 

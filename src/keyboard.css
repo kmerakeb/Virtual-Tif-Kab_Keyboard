@@ -84,16 +84,16 @@
 .key-switch {
   min-width: 120px;
   margin-left: 8px;
-  background-color: #4CAF50;
+  background-color: #4a9ecb;
   color: white;
   font-weight: bold;
-  border: 1px solid #388E3C;
+  border: 1px solid #4a9ecb;
   border-radius: 6px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
 .key-switch:hover {
-  background-color: #388E3C;
+  background-color: #4a9ecb;
   box-shadow: 0 3px 6px rgba(0,0,0,0.3);
 }
 

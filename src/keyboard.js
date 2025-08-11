@@ -117,7 +117,7 @@ class VirtualTifinaghKeyboard {
       this.insertAtCursor(" "), "key-space");
 
     const switchBtn = this.createButton(
-      this.currentLayout === "tifinagh" ? "QWERTY ⌨️" : "ⵜⵉⴼⵉⵏⴰⵖ ⌨️",
+      this.currentLayout === "tifinagh" ? "Kab ⌨️" : "ⵜⵉⴼⵉⵏⴰⵖ ⌨️",
       () => {
         this.currentLayout =
           this.currentLayout === "tifinagh" ? "kabyle" : "tifinagh";
