@@ -23,4 +23,4 @@ https://kmerakeb.github.io/Virtual-Tif-Kab_Keyboard/
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/kmerakeb/Virtual-Tif-Kab_Keyboard.git.git
