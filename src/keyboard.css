@@ -23,7 +23,7 @@
   justify-content: center;
   margin-bottom: 8px;
   gap: 6px;
-  scrollbar-width: none; /* firefox */
+  scrollbar-width: auto; /* firefox */
 }
 
 .key {
