@@ -1,0 +1,34 @@
+<!-- docs/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tifinagh Keyboard Demo</title>
+  <link rel="stylesheet" href="../dist/keyboard.css" />
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .demo-input {
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🧪 Tifinagh / Kabyle Virtual Keyboard</h1>
+  <p>Try typing in Tifinagh or Kabyle using the virtual keyboard below.</p>
+
+  <div class="demo-input">
+    <label for="input">Type here:</label><br />
+    <input type="text" id="input" class="tifinagh-keyboard" />
+  </div>
+
+  <script src="../dist/keyboard.js"></script>
+</body>
+</html>

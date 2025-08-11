@@ -1,0 +1,16 @@
+# To not include source/demo/dev stuff
+docs/
+.vscode/
+.idea/
+*.log
+*.md
+.gitignore
+LICENSE
+.git
+.gitmodules
+
+# exclude raw fonts if not embedded
+fonts/
+
+package-lock.json
+yarn.lock

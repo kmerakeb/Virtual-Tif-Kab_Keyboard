@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Temporary build artifacts
+dist/*.map
+*.tmp
+*.bak
+
+
+package-lock.json
+yarn.lock
