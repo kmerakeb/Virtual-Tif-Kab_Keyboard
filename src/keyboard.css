@@ -19,12 +19,15 @@
 
 .keyboard-row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
   margin-bottom: 8px;
   gap: 6px;
+  scrollbar-width: none;     /* Firefox */
 }
-
+.keyboard-row::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari */
+}
 .key {
   background-color: #fff;
   border: 1px solid #ccc;
@@ -84,7 +87,7 @@
 .key-switch {
   min-width: 120px;
   margin-left: 8px;
-  background-color: #4a9ecb;
+  background-color: #6badd1;
   color: white;
   font-weight: bold;
   border: 1px solid #4a9ecb;
