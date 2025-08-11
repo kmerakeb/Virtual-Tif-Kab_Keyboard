@@ -23,11 +23,9 @@
   justify-content: center;
   margin-bottom: 8px;
   gap: 6px;
-  scrollbar-width: none;     /* Firefox */
+  scrollbar-width: none; /* firefox */
 }
-.keyboard-row::-webkit-scrollbar {
-  display: none;             /* Chrome, Safari */
-}
+
 .key {
   background-color: #fff;
   border: 1px solid #ccc;

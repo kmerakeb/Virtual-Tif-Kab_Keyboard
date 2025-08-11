@@ -23,10 +23,8 @@
   justify-content: center;
   margin-bottom: 8px;
   gap: 6px;
-  scrollbar-width:auto; /* firefox */
+  scrollbar-width: none; /* firefox */
 }
-
-
 .key {
   background-color: #fff;
   border: 1px solid #ccc;
