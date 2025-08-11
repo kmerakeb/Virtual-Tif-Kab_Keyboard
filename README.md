@@ -1,11 +1,11 @@
 # Tifinagh / Kabyle Virtual Keyboard
 
 A lightweight, mobile-friendly JavaScript virtual keyboard supporting **Tifinagh** and **Kabyle Latin-based scripts**, with Caps Lock, delete, layout switch, and responsive design.
-## Demo
+
 
 ![Virtual Tifinagh Keyboard](docs/tif-kab-keyboard.png)
 
-Try typing in Tifinagh or Kabyle using our virtual keyboard!
+## 🚀 Live Demo
 
 https://kmerakeb.github.io/Virtual-Tif-Kab_Keyboard/
 
@@ -18,19 +18,9 @@ https://kmerakeb.github.io/Virtual-Tif-Kab_Keyboard/
 - Zero dependencies
 - Framework-agnostic (works with plain HTML, React, Vue, etc.)
 
-## 📦 Installation
+## 📁 Usage
 
-Via CDN:
+### 1. Clone or Download
 
-```html
-<link rel="stylesheet" href="https://unpkg.com/tifinagh-keyboard/dist/keyboard.css">
-<script src="https://unpkg.com/tifinagh-keyboard/dist/keyboard.js"></script>
-
-Or Install Via npm
-
-npm install tifinagh-keyboard
-
-Then import it:
-
-import 'tifinagh-keyboard/dist/keyboard.css';
-import 'tifinagh-keyboard/dist/keyboard.js';
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
